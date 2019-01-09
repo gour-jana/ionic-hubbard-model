@@ -51,6 +51,9 @@
 		print*,"the broadening of the lorentzian for cal. of distributin p(m) of m=",gama_m
 		print*,"strnth of the ionic disorder=",strnth       
 
+
+	      print*,"print gour"
+
         config=(MCSW/(2*intrvl))+1
         
 		allocate(m_s(d**2),th_s(d**2),ph_s(d**2),n_total(d**2),ion_dis(d**2))
