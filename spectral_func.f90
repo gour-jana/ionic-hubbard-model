@@ -153,8 +153,12 @@
         enddo   !temperature loop
          
     
+print*,"end of program"
+
     end 
     
+
+
     
 !********************************************************************************************
 !subroutine for matrix formation and diagonalization for the system
